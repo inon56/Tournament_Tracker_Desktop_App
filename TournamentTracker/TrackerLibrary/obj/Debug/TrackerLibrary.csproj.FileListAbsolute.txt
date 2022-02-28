@@ -1,0 +1,6 @@
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.dll
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerLibrary\bin\Debug\TrackerLibrary.pdb
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.AssemblyReference.cache
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.csproj.CoreCompileInputs.cache
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.dll
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerLibrary\obj\Debug\TrackerLibrary.pdb

@@ -1,0 +1,16 @@
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe.config
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.exe
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\bin\Debug\TrackerUI.pdb
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.AssemblyReference.cache
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.CreatePrizeForm.resources
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.Properties.Resources.resources
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.GenerateResource.cache
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CoreCompileInputs.cache
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.exe
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.pdb
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.dll
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\bin\Debug\TrackerLibrary.pdb
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentDashboardForm.resources
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.TournamentViewerForm.resources
+C:\Users\leino\Desktop\C#_Project\TournamentTracker\TrackerUI\obj\Debug\TrackerUI.csproj.CopyComplete
